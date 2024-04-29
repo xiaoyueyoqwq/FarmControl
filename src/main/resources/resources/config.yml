@@ -4,6 +4,9 @@
 # Please don't change this!
 version: 9
 
+#set language file (message_zh or message_en)
+language: message_en
+
 # Every how many ticks should we run the profile check / action cycle?
 cycle-period: 600
 
